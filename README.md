@@ -32,8 +32,8 @@ This project provides a simple integration between a FastAPI backend and [n8n](h
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-   cd YOUR-REPO
+   git clone  https://github.com/gothamza/simple-FastAPI-n8n-Integration.git
+   cd my-project
    ```
 
 2. **Start the services:**
